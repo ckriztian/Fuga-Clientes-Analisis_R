@@ -1,7 +1,7 @@
 
 # Predicción de Fuga de Clientes – Dashboard Interactivo
 
-![Dashboard Fuga de Clientes](img/screenshot.png)
+![Dashboard Fuga de Clientes](/img/dashboard.png)
 
 ## Descripción
 
@@ -25,6 +25,15 @@ La retención de clientes es un desafío crítico para empresas de servicios, ba
 
 ---
 
+## Ejemplo de aplicación en otras industrias
+
+- Bancos (churn en productos financieros)
+- Empresas de streaming (cancelación de suscripciones)
+- Seguros (baja de pólizas)
+- Servicios de suscripción SaaS (abandono de usuarios)
+
+---
+
 ## Instrucciones de uso
 
 1. **Cloná el repositorio:**
@@ -42,29 +51,15 @@ La retención de clientes es un desafío crítico para empresas de servicios, ba
 
 ## Estructura del proyecto
 
-- `app.R` : Script principal del dashboard Shiny.
-- `data/` : Carpeta sugerida para los datasets.
+- `data/` : Carpeta sugerida docs del proyecto.
 - `img/` : Imágenes ilustrativas del dashboard y resultados.
 - `Proyecto_Fuga-de-clientes.Rmd` : Documento con todo el proceso y explicación del análisis.
-
----
-
-## Ejemplo de aplicación en otras industrias
-
-- Bancos (churn en productos financieros)
-- Empresas de streaming (cancelación de suscripciones)
-- Seguros (baja de pólizas)
-- Servicios de suscripción SaaS (abandono de usuarios)
+- `WA_Fn-UseC_-Telco-Customer-Churn.csv` : Conjunto de datos extraído de Kaggle.
 
 ---
 
 ## Créditos
 
 Desarrollado por Cristian Vera  
-Para la Diplomatura en Business Intelligence – Politécnico Malvinas Argentinas
+Para la Diplomatura en Business Intelligence – UTN BA
 
----
-
-## Licencia
-
-MIT
