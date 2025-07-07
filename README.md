@@ -1,0 +1,70 @@
+
+# Predicción de Fuga de Clientes – Dashboard Interactivo
+
+![Dashboard Fuga de Clientes](img/screenshot.png)
+
+## Descripción
+
+Este proyecto implementa un sistema de **predicción y visualización de fuga de clientes** ("customer churn") utilizando R y Shiny. Permite a las organizaciones anticipar la pérdida de clientes, segmentar su base y simular escenarios de retención de manera interactiva.
+
+---
+
+## Funcionalidades principales
+
+- **Visualización de métricas clave**: Proporción de clientes fugados, análisis de variables relevantes.
+- **Modelos predictivos**: Árbol de decisión y regresión logística para estimar el riesgo de fuga.
+- **Segmentación de clientes**: Agrupamiento (clustering) para analizar perfiles de clientes.
+- **Simulación Monte Carlo**: Permite modelar el impacto de estrategias de retención en la tasa de fuga.
+- **Dashboard Shiny**: Interfaz amigable e interactiva para analizar resultados y simular escenarios.
+
+---
+
+## ¿Por qué este proyecto?
+
+La retención de clientes es un desafío crítico para empresas de servicios, banca, telecomunicaciones, streaming, entre otros. Anticipar la fuga de clientes permite implementar acciones proactivas y personalizadas para mejorar la rentabilidad del negocio.
+
+---
+
+## Instrucciones de uso
+
+1. **Cloná el repositorio:**
+   ```bash
+   git clone https://github.com/tu_usuario/tu_repositorio.git
+   ```
+2. **Instalá las dependencias necesarias en R:**
+   ```r
+   install.packages(c("shiny", "shinydashboard", "caret", "rpart", "rpart.plot", "DT", "factoextra", "plotly"))
+   ```
+3. **Ejecutá la app Shiny:**
+   - Abrí el archivo `app.R` (o el script principal) en RStudio y hacé click en “Run App”.
+
+---
+
+## Estructura del proyecto
+
+- `app.R` : Script principal del dashboard Shiny.
+- `data/` : Carpeta sugerida para los datasets.
+- `img/` : Imágenes ilustrativas del dashboard y resultados.
+- `Proyecto_Fuga-de-clientes.Rmd` : Documento con todo el proceso y explicación del análisis.
+
+---
+
+## Ejemplo de aplicación en otras industrias
+
+- Bancos (churn en productos financieros)
+- Empresas de streaming (cancelación de suscripciones)
+- Seguros (baja de pólizas)
+- Servicios de suscripción SaaS (abandono de usuarios)
+
+---
+
+## Créditos
+
+Desarrollado por Cristian Vera  
+Para la Diplomatura en Business Intelligence – Politécnico Malvinas Argentinas
+
+---
+
+## Licencia
+
+MIT
