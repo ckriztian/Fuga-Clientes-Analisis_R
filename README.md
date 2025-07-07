@@ -5,7 +5,7 @@
 
 ## Descripción
 
-Este proyecto implementa un sistema de **predicción y visualización de fuga de clientes** ("customer churn") utilizando R y Shiny. Permite a las organizaciones anticipar la pérdida de clientes, segmentar su base y simular escenarios de retención de manera interactiva.
+Este proyecto implementa un sistema de **predicción y visualización de fuga de clientes** ("customer churn"). Permite a las organizaciones anticipar la pérdida de clientes, segmentar su base y simular escenarios de retención de manera interactiva.
 
 ---
 
