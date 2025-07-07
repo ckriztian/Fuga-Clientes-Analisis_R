@@ -38,14 +38,14 @@ La retención de clientes es un desafío crítico para empresas de servicios, ba
 
 1. **Cloná el repositorio:**
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/ckriztian/Fuga-Clientes-Analisis_R.git
    ```
 2. **Instalá las dependencias necesarias en R:**
    ```r
    install.packages(c("shiny", "shinydashboard", "caret", "rpart", "rpart.plot", "DT", "factoextra", "plotly"))
    ```
 3. **Ejecutá la app Shiny:**
-   - Abrí el archivo `app.R` (o el script principal) en RStudio y hacé click en “Run App”.
+   - Abrí el archivo `Proyecto_Fuga-de-clientes.Rmd` en RStudio y hacé click en “Run All”.
 
 ---
 
