@@ -1,15 +1,15 @@
 
-# Predicción de Fuga de Clientes – Dashboard Interactivo
+## Predicción de Fuga de Clientes – Dashboard Interactivo
 
 ![Dashboard Fuga de Clientes](/img/dashboard.png)
 
-## Descripción
+### Descripción
 
 Este proyecto implementa un sistema de **predicción y visualización de fuga de clientes** ("customer churn"). Permite a las organizaciones anticipar la pérdida de clientes, segmentar su base y simular escenarios de retención de manera interactiva.
 
 ---
 
-## Funcionalidades principales
+### Funcionalidades principales
 
 - **Visualización de métricas clave**: Proporción de clientes fugados, análisis de variables relevantes.
 - **Modelos predictivos**: Árbol de decisión y regresión logística para estimar el riesgo de fuga.
@@ -19,13 +19,13 @@ Este proyecto implementa un sistema de **predicción y visualización de fuga de
 
 ---
 
-## ¿Por qué este proyecto?
+### ¿Por qué este proyecto?
 
 La retención de clientes es un desafío crítico para empresas de servicios, banca, telecomunicaciones, streaming, entre otros. Anticipar la fuga de clientes permite implementar acciones proactivas y personalizadas para mejorar la rentabilidad del negocio.
 
 ---
 
-## Ejemplo de aplicación en otras industrias
+### Ejemplo de aplicación en otras industrias
 
 - Bancos (churn en productos financieros)
 - Empresas de streaming (cancelación de suscripciones)
@@ -34,7 +34,15 @@ La retención de clientes es un desafío crítico para empresas de servicios, ba
 
 ---
 
-## Instrucciones de uso
+### ¿Qué resuelvo con este proyecto?
+•	Detectar patrones y variables asociadas a la fuga.
+•	Segmentar clientes según riesgo de fuga.
+•	Permitir simulaciones (por ejemplo, cómo bajaría la fuga si aplico una campaña de retención).
+•	Visualizar los resultados de forma clara para la toma de decisiones.
+
+---
+
+### Instrucciones de uso
 
 1. **Cloná el repositorio:**
    ```bash
@@ -55,6 +63,12 @@ La retención de clientes es un desafío crítico para empresas de servicios, ba
 - `img/` : Imágenes ilustrativas del dashboard y resultados.
 - `Proyecto_Fuga-de-clientes.Rmd` : Documento con todo el proceso y explicación del análisis.
 - `WA_Fn-UseC_-Telco-Customer-Churn.csv` : Conjunto de datos extraído de Kaggle.
+
+---
+
+### Descripción del dataset
+
+El proyecto utiliza el dataset “Telco Customer Churn” (Kaggle), que contiene información de clientes de una empresa de telecomunicaciones: datos demográficos, servicios contratados, historial de facturación y si el cliente abandonó o no el servicio.
 
 ---
 
