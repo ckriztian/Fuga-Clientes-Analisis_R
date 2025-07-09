@@ -57,7 +57,7 @@ La retención de clientes es un desafío crítico para empresas de servicios, ba
 
 ---
 
-## Estructura del proyecto
+### Estructura del proyecto
 
 - `data/` : Carpeta sugerida docs del proyecto.
 - `img/` : Imágenes ilustrativas del dashboard y resultados.
