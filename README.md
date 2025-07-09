@@ -43,7 +43,7 @@ La retención de clientes es un desafío crítico para empresas de servicios, ba
 El proyecto utiliza el dataset “Telco Customer Churn” (Kaggle), que contiene información de clientes de una empresa de telecomunicaciones: datos demográficos, servicios contratados, historial de facturación y si el cliente abandonó o no el servicio.
 
 ---
-### [Link del Video-Presentación del Proyecto](https://youtu.be/eLrBgtpBp4A) 
+### 🎥 [Link del Video-Presentación del Proyecto](https://youtu.be/eLrBgtpBp4A) 
 ---
 ### 📁 Estructura del proyecto
 
