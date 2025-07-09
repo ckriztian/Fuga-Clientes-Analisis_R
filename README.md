@@ -2,6 +2,7 @@
 ## Predicción de Fuga de Clientes – Dashboard Interactivo
 
 ![Dashboard Fuga de Clientes](/img/dashboard.png)
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=ckriztian.Fuga-Clientes-Analisis_R&left_color=gray&right_color=blue)
 
 ### 🚀 Descripción
 
